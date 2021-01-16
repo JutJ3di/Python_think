@@ -48,6 +48,6 @@ prod.run_prod(random.randint(1,25))
 
 cons.run_cons()
 
-
-
+prod.join()
+cons.join()
 
