@@ -1,7 +1,7 @@
 import os,subprocess
 
 
-print("Benvenuto nella mia baby shell pythonn\n\n")
+print("Benvenuto nella mia baby shell python\n\n")
 
 while True:
 
